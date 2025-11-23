@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="white"/>
+  <text x="20" y="30" font-size="16" fill="black">Placeholder training curves</text>
+  <polyline points="40,250 120,180 200,140 280,120 360,110" fill="none" stroke="#4c72b0" stroke-width="3" />
+  <polyline points="40,240 120,190 200,160 280,140 360,130" fill="none" stroke="#dd8452" stroke-width="3" stroke-dasharray="5,5" />
+  <text x="50" y="265" font-size="12" fill="#4c72b0">Frozen PQC</text>
+  <text x="230" y="265" font-size="12" fill="#dd8452">Fine-tune</text>
+</svg>
