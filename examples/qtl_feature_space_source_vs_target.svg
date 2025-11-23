@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="300" viewBox="0 0 400 300">
+  <rect width="400" height="300" fill="white"/>
+  <text x="20" y="30" font-size="16" fill="black">Placeholder feature-space plot (generated offline).</text>
+  <circle cx="120" cy="180" r="20" fill="#4c72b0" fill-opacity="0.5" />
+  <circle cx="260" cy="120" r="20" fill="#dd8452" fill-opacity="0.5" />
+  <text x="90" y="220" font-size="12" fill="#4c72b0">Source cluster</text>
+  <text x="230" y="160" font-size="12" fill="#dd8452">Target cluster</text>
+</svg>

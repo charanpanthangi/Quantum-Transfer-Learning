@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="250" viewBox="0 0 300 250">
+  <rect width="300" height="250" fill="white"/>
+  <text x="20" y="30" font-size="16" fill="black">Placeholder accuracy bars</text>
+  <rect x="60" y="100" width="60" height="100" fill="#4c72b0" />
+  <rect x="180" y="70" width="60" height="130" fill="#dd8452" />
+  <text x="65" y="215" font-size="12" fill="#4c72b0">Frozen</text>
+  <text x="185" y="215" font-size="12" fill="#dd8452">Fine-tune</text>
+</svg>
